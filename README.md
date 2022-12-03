@@ -71,6 +71,6 @@ FLAGS
         Type: int
         Default: 10
 
-NOTES
+NOTESa
     You can also use flags syntax for POSITIONAL ARGUMENTS
 ```
